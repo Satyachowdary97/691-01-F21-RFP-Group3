@@ -105,7 +105,7 @@ Expected entites may include:
 - Inbox
 
 ### Layout:
-![LoginPage](Layout/Loginpage.jpeg) <br> Login Page View
+![LoginPage](Layout/LoginPage.jpeg) <br> Login Page View
 ![Dashboard](Layout/Dashboard.jpeg) <br> Dashboard View
 ![Menu](Layout/Menu.jpeg) <br> Menu View
 
