@@ -105,10 +105,14 @@ Expected entites may include:
 - Inbox
 
 ### Layout:
+
 ![LoginPage](Layout/LoginPage.jpeg) <br> Login Page View
+
 ![Dashboard](Layout/Dashboard.jpeg) <br> Dashboard View
+
 ![Menu](Layout/Menu.jpeg) <br> Menu View
 
 ### ER Diagram:
+
 ![RFPERDiagram](Layout/RFPERDiagram.jpeg) <br> BearCats Buddy ER Diagram
 
