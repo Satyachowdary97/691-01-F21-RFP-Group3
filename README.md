@@ -109,3 +109,6 @@ Expected entites may include:
 ![Dashboard](Layout/Dashboard.jpeg) <br> Dashboard View
 ![Menu](Layout/Menu.jpeg) <br> Menu View
 
+### ER Diagram:
+![RFPERDiagram](Layout/RFPERDiagram.jpeg) <br> BearCats Buddy ER Diagram
+
